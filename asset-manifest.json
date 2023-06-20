@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/perfume_shop/static/css/main.dd9022a2.css",
+    "main.js": "/perfume_shop/static/js/main.10be71ae.js",
+    "static/js/787.863c977e.chunk.js": "/perfume_shop/static/js/787.863c977e.chunk.js",
+    "static/media/5.png": "/perfume_shop/static/media/5.49164d88d9c6d61ba604.png",
+    "static/media/2.png": "/perfume_shop/static/media/2.be036c1d43163913cd7d.png",
+    "static/media/4.png": "/perfume_shop/static/media/4.53602947031715f6bbc8.png",
+    "static/media/6.png": "/perfume_shop/static/media/6.09d1722a26411efb8c97.png",
+    "static/media/7.png": "/perfume_shop/static/media/7.c4971ff88974f1ca9a25.png",
+    "static/media/3.png": "/perfume_shop/static/media/3.1a034d89f7ebd748782c.png",
+    "static/media/1.png": "/perfume_shop/static/media/1.595cc53da0fdfed2500e.png",
+    "static/media/8.png": "/perfume_shop/static/media/8.ef0dc4f797f2283a4fef.png",
+    "index.html": "/perfume_shop/index.html",
+    "main.dd9022a2.css.map": "/perfume_shop/static/css/main.dd9022a2.css.map",
+    "main.10be71ae.js.map": "/perfume_shop/static/js/main.10be71ae.js.map",
+    "787.863c977e.chunk.js.map": "/perfume_shop/static/js/787.863c977e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd9022a2.css",
+    "static/js/main.10be71ae.js"
+  ]
+}
